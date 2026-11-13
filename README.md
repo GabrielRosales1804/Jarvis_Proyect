@@ -1,4 +1,4 @@
-## Proyect Jarvis
+# Proyect Jarvis
 # Área de Trabajo Activada por Aplausos (Clap-Activated Workspace)
 
 Un script automatizado en Python que utiliza reconocimiento de audio para preparar tu entorno de desarrollo con un doble aplauso. Al detectarlo, el sistema te saluda por voz según la hora del día, abre tu lista de reproducción favorita en YouTube Music y lanza tu IDE.
